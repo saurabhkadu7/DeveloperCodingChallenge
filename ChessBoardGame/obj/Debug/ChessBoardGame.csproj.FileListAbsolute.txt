@@ -1,0 +1,10 @@
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.exe.config
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.exe
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.pdb
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.csproj.AssemblyReference.cache
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.csproj.CoreCompileInputs.cache
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoa.AE364BF8.Up2Date
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.exe
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.pdb
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardInterfaces.dll
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardInterfaces.pdb

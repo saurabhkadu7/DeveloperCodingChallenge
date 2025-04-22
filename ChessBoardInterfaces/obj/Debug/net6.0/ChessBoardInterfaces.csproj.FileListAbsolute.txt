@@ -1,0 +1,11 @@
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\bin\Debug\net6.0\ChessBoardInterfaces.deps.json
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\bin\Debug\net6.0\ChessBoardInterfaces.dll
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\bin\Debug\net6.0\ChessBoardInterfaces.pdb
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.AssemblyInfoInputs.cache
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.AssemblyInfo.cs
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.csproj.CoreCompileInputs.cache
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.dll
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\refint\ChessBoardInterfaces.dll
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ChessBoardInterfaces.pdb
+C:\Deveelopment\FreightlinerCoding\ChessBoardGame\ChessBoardInterfaces\obj\Debug\net6.0\ref\ChessBoardInterfaces.dll
